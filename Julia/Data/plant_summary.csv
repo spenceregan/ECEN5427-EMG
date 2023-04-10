@@ -1,0 +1,149 @@
+﻿team,id,capacity,commissioned,decommissioned,type,efficiency
+BuffsPower,e5,300,-13,5,CCGT,
+BuffsPower,e6,600,-6,5,CCGT,
+BuffsPower,e7,50,-11,5,OCGT,
+BuffsPower,e8,50,-5,5,OCGT,
+BuffsPower,e2,700,0,5,coal,
+Consolidated Tesla,b6,500,-4,15,CCGT,
+Consolidated Tesla,GasX 500,500,10,40,CCGT,
+Consolidated Tesla,Cosmos Combo,500,12,42,CCGT,
+Consolidated Tesla,Gasman,500,13,43,CCGT,
+Consolidated Tesla,b7,50,-11,12,OCGT,
+Consolidated Tesla,b8,35,-10,12,OCGT,
+Consolidated Tesla,Fossil Fuel Guzzler,100,9,15,OCGT,
+Consolidated Tesla,peak - a - boo,100,9,15,OCGT,
+Consolidated Tesla,b1,800,-9,41,nuclear,
+Consolidated Tesla,b3,500,-13,5,coal,
+Consolidated Tesla,b2,600,-8,17,coal,
+Consolidated Tesla,b5,15,-6,19,wind,
+Consolidated Tesla,b4,200,0,25,wind,
+Consolidated Tesla,Bird Slayer,500,3,28,wind,
+Consolidated Tesla,Franks Wind Plant,100,8,33,wind,
+Consolidated Tesla,Jacksons Wind Plant,100,8,33,wind,
+Consolidated Tesla,Ians Wind Plant,100,8,33,wind,
+Consolidated Tesla,In your backyard,500,9,34,wind,
+Consolidated Tesla,Newmill,100,10,35,wind,
+Consolidated Tesla,George Costwindza,100,10,35,wind,
+Consolidated Tesla,Airy David,100,10,35,wind,
+Consolidated Tesla,Elaine Vestus,100,10,35,wind,
+Consolidated Tesla,Jerry Windfeld,100,10,35,wind,
+Consolidated Tesla,Blade Runner,100,11,36,wind,
+Consolidated Tesla,Hells Nacelles,100,11,36,wind,
+Consolidated Tesla,Rotor I Barely Knew Her,100,11,36,wind,
+Consolidated Tesla,Pitchin,100,11,36,wind,
+Consolidated Tesla,Hell Yaw,100,11,36,wind,
+Consolidated Tesla,Bluster,100,12,37,wind,
+Consolidated Tesla,BAF,100,12,37,wind,
+Consolidated Tesla,One of my Turns,100,12,37,wind,
+Consolidated Tesla,Twister,100,12,37,wind,
+Consolidated Tesla,Dust in the,100,12,37,wind,
+Consolidated Tesla,Gone with the,100,12,37,wind,
+NaCK Power,c6,350,-10,20,CCGT,
+NaCK Power,Koffing,800,11,41,CCGT,
+NaCK Power,c7,50,-10,20,OCGT,
+NaCK Power,c8,50,-4,26,OCGT,
+NaCK Power,e1,800,-9,41,nuclear,
+NaCK Power,c1,800,-9,41,nuclear,
+NaCK Power,c3,600,-16,20,coal,
+NaCK Power,c2,600,-3,37,coal,
+NaCK Power,c5,100,-4,21,wind,
+NaCK Power,e4,150,-1,24,wind,
+NaCK Power,c4,150,0,25,wind,
+NaCK Power,Blitz,200,3,28,wind,
+NaCK Power,Gale,200,3,28,wind,
+NaCK Power,Zephyr,200,3,28,wind,
+NaCK Power,Jupiter,500,9,34,wind,
+NaCK Power,Squall,500,9,34,wind,
+NaCK Power,Kite,500,12,37,wind,
+NaCK Power,Gust,250,12,37,wind,
+NaCK Power,Luff,250,12,37,wind,
+Team Corona,d6,500,-11,19,CCGT,
+Team Corona,Starlight Gasworks,500,5,21,CCGT,
+Team Corona,d7,50,-8,19,OCGT,
+Team Corona,d8,50,-5,19,OCGT,
+Team Corona,d1,800,-9,41,nuclear,
+Team Corona,d3,600,-14,5,coal,
+Team Corona,d2,600,-6,5,coal,
+Team Corona,Emmissions On Board,1000,13,21,coal,
+Team Corona,Char Coal,1000,14,21,coal,
+Team Corona,d4,50,-3,22,wind,
+Team Corona,e3,50,0,25,wind,
+Team Corona,d5,50,0,25,wind,
+Team Corona,Breeze Boulevard,100,3,28,wind,
+Team Corona,Skyward Streams,100,3,28,wind,
+Team Corona,Turbine Terrace,200,3,28,wind,
+Team Corona,Vortex Valley,200,3,28,wind,
+Team Corona,Tornado,500,8,33,wind,
+Team Corona,Hurricane,500,8,33,wind,
+Team Corona,Silver Wings,500,8,33,wind,
+Team Corona,Apollo 1,700,10,35,wind,
+Team Corona,Apollo 2,500,10,35,wind,
+Volta,a6,200,-18,10,CCGT,0.4906
+Volta,a5,600,-14,10,CCGT,0.5065
+Volta,a8,50,-6,17,OCGT,0.3718
+Volta,a7,50,-5,17,OCGT,0.374
+Volta,peaker1,100,6,36,OCGT,0.399
+Volta,peaker2,100,6,36,OCGT,0.399
+Volta,peaker3,100,6,36,OCGT,0.399
+Volta,peaker4,100,6,36,OCGT,0.399
+Volta,peaker5,100,6,36,OCGT,0.399
+Volta,peaker6,250,8,38,OCGT,0.4043
+Volta,peaker8,100,9,39,OCGT,0.4067
+Volta,peaker7,100,9,39,OCGT,0.4067
+Volta,a1,800,-9,41,nuclear,0.3353
+Volta,a2,700,-7,5,coal,0.3818
+Volta,a4,50,-6,19,wind,1
+Volta,a3,250,0,25,wind,1
+Volta,Cirrus Wind,700,5,30,wind,1
+Volta,Nimbus1,250,6,31,wind,1
+Volta,Nimbus2,250,6,31,wind,1
+Volta,Cumulus1,200,8,33,wind,1
+Volta,Cumulus5,100,9,34,wind,1
+Volta,Cumulus4,100,9,34,wind,1
+Volta,Cumulus3,100,9,34,wind,1
+Volta,Cumulus2,100,9,34,wind,1
+Volta,Cumulus6,150,10,35,wind,1
+Volta,Cumulus7,150,10,35,wind,1
+Volta,Cumulus8,200,10,35,wind,1
+Volta,Cumulus9,200,10,35,wind,1
+Volta,Nimbus3,500,11,36,wind,1
+Volta,Nimbus4,400,11,36,wind,1
+Volta,Nimbus5,200,14,39,wind,1
+Volta,Nimbus6,200,14,39,wind,1
+Volta,Nimbus7,200,15,40,wind,1
+Volta,Nimbus8,200,15,40,wind,1
+Consolidated Tesla,Breezy,250,14,39,wind,1
+Consolidated Tesla,Airy,100,14,39,wind,1
+Consolidated Tesla,Airy2,100,14,39,wind,1
+Consolidated Tesla,Bigly Fan,300,15,40,wind,1
+Volta,Cirrus2,250,16,41,wind,1
+Consolidated Tesla,WindHub,500,16,41,wind,1
+Team Corona,Wind Whistle,700,16,50,wind,1
+Team Corona,Bright Energy,500,18,21,CCGT,
+Team Corona,Blew Wind Plant,700,17,52,wind,1
+Consolidated Tesla,Big Boy 2,500,17,52,wind,1
+Consolidated Tesla,Big Boy 2,500,17,52,wind,1
+Volta,Cirrus3,500,18,52,wind,1
+Volta,Cirrus4,200,19,50,wind,1
+Volta,Cirrus5,400,19,50,wind,1
+Volta,Cirrus6,500,20,50,wind,1
+Volta,Cirrus7,500,20,50,wind,1
+NaCK Power,Gallic,700,20,50,wind,1
+Consolidated Tesla,More Cowbell,500,20,50,wind,1
+Team Corona,WindSurfer,700,21,50,wind,1
+Team Corona,GoldRushy,700,21,50,wind,1
+Consolidated Tesla,Windy2,700,19,50,wind,1
+NaCK Power,Bora,600,18,50,wind,1
+Consolidated Tesla,MORE,500,18,50,wind,1
+Volta,Cirrus8,500,22,50,wind,1
+Volta,Cirrus9,500,22,50,wind,1
+NaCK Power,Notus,500,22,50,wind,1
+NaCK Power,Eurus,500,22,50,wind,1
+NaCK Power,Aquilon,500,22,50,wind,1
+NaCK Power,Argestes,500,22,50,wind,1
+Volta,Stratus1,500,23,50,wind,1
+Volta,Stratus2,500,23,50,wind,1
+Volta,printer1,700,23,50,wind,1
+Volta,printer2,700,23,50,wind,1
+Volta,printer3,700,23,50,wind,1
+Volta,brrrrr,700,23,50,wind,1

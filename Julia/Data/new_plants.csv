@@ -1,0 +1,6 @@
+﻿id,type,reliability,efficiency,downpayment,loan,OandM,round
+newnuke,nuclear,0.96,0.347,1.042,0.335,0.108,20
+newCCGT,CCGT,0.96,0.68,0.132,0.051,0.061,20
+newcoal,coal,0.96,0.453,0.365,0.117,0.118,20
+newOCGT,OCGT,0.96,0.45,0.101,0.052,0.024,20
+newwind,wind,0.96,1,0.207,0.08,0.046,20

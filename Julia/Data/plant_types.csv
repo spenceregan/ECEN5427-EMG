@@ -1,0 +1,6 @@
+﻿type,longtype,fuel,renewable,energydensity,emmissions,lifetime,loanterm,constructionterm
+wind,wind,windfp,1,1,0,25,15,2
+nuclear,nuclear,nuclearfp,0,3888000,0,50,20,7
+coal,powderCoal,coalfp,0,25000,2.66,40,20,5
+CCGT,naturalgasCCGT,gasfp,0,35.069,0.00187,30,15,4
+OCGT,naturalgasOCGT,gasfp,0,35.069,0.00187,30,10,2
